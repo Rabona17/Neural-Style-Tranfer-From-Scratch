@@ -7,3 +7,10 @@ For details/how it is built, please go to the notebook
 
 ## Disclaim
 I wrote all the code in the Notebook, but codes in nst_utils(which are only several helper methods) are borrowed online to increase efficiency
+
+## What does this project do?
+<img src="images/geisal.jpg" width="350" alt="content">
+and
+<img src="images/starry-night-style.jpg" width="350" alt="style">
+equals
+<img src="output/generated_image2.jpg" width="350" alt="nst">

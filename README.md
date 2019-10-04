@@ -16,4 +16,4 @@ equals
 <img src="output/generated_image2.jpg" width="350" alt="nst">
 
 ## Can't open?
-Cannot open notebook/To view on phone, click [here](https://github.com/Rabona17/Neural-Style-Tranfer-From-Scratch/blob/master/Neural-Style-Transfer_From_Scratch.ipynb)
+Cannot open notebook/To view on phone, click [here](https://nbviewer.jupyter.org/github/Rabona17/Neural-Style-Tranfer-From-Scratch/blob/master/Neural-Style-Transfer_From_Scratch.ipynb)

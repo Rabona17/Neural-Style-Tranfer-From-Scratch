@@ -14,3 +14,6 @@ and
 <img src="images/starry-night-style.jpg" width="350" alt="style">
 equals
 <img src="output/generated_image2.jpg" width="350" alt="nst">
+
+## Can't open?
+Cannot open notebook/To view on phone, click [here](https://github.com/Rabona17/Neural-Style-Tranfer-From-Scratch/blob/master/Neural-Style-Transfer_From_Scratch.ipynb)

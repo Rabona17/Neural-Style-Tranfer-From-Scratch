@@ -1,4 +1,4 @@
-This programming assignment developped by deeplearning.ai (Kian Katanforoosh, Younes Bensouda Mourri, Andrew Ng) uses a pretrained model that can be downloaded at the following link: http://www.vlfeat.org/matconvnet/pretrained/. The pretrained model's parameters are due to the MatConvNet Team. Their software comes with the license replicated below.
+This project uses a pretrained model that can be downloaded at the following link: http://www.vlfeat.org/matconvnet/pretrained/. The pretrained model's parameters are due to the MatConvNet Team. Their software comes with the license replicated below.
 
 
 ---------------------------------------------------------------------
